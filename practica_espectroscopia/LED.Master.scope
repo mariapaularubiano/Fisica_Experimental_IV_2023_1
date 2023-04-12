@@ -1,16 +1,3 @@
-OOIBase32 Version 1.0.0.8 Data File
-++++++++++++++++++++++++++++++++++++
-Date: Monday, January 21, 1980, 09:07:04
-User: Valued Ocean Optics Customer
-Spectrometer Serial Number: Unknown
-Spectrometer Channel: Master
-Integration Time (msec): 3
-Spectra Averaged: 20
-Boxcar Smoothing: 0
-Correct for Electrical Dark: Disabled
-Time Normalized: Disabled
-Dual-beam Reference: Disabled
-Reference Channel: Master
 >>>>>Begin Spectral Data<<<<<
 179.00	0.0000
 179.38	0.0000
